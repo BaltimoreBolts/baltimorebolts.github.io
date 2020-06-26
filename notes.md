@@ -12,6 +12,10 @@
     - sudo apt install sass
 
 ### Running the environment
-- jekyll serve
-    - runs webhost locally (usually port 4000)
-    - open this in your web browser
+- `jekyll serve` from root directory
+    - runs webhost locally (usually port `4000`)
+    - open this in your web browser (localhost:4000)
+- `sass -w styles.sass:styles.css`
+    - this will watch for updates to your `styles.sass` file and write the `styles.css` file for you
+- `git add .` + `git commit -m "commit message"` + `git push` to push your changes up
+    - or use vscode integrated git
