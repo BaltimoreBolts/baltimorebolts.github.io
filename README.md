@@ -30,4 +30,4 @@ Jekyll + Sass + Boostrap Based Website
 - https://html5up.net/massively
 - https://templated.co/
 
-- Player 2 has joined the match
+Player 2 has joined the match
