@@ -4,7 +4,8 @@
 Ideas as of (7/1/20) 
 
 - Undeviating (https://templated.co/undeviating)
-    - Gallery instead of static photo
+    - div,id: header wrapper 
+        - This header has a very nice layout, the rounded corners are nice
 
 - Hielo (https://templated.co/hielo)
     - div,id: header
@@ -22,12 +23,14 @@ Ideas as of (7/1/20)
         - Can be used as a learn more or super apparent sign up page
     
 - Untamed (https://templated.co/untamed)
-    - Simple layout, maybe too much space for words
+    - div,id: wrapper/ featured-wrapper  
+        - Dont know of a reason to have I cons but incase we should we can use this template
 
 - Polychromasia (https://templated.co/polychromasia)
-    - Modern Layout
+    - There is no one thing that is good about this template. The orginaization of it all is clean and crisp. however I think the hero image should be spread all the way across 
 
 - OpenSpace (https://templated.co/openspace)
     - div,id: wrapper/page
         - Really nice event highlighter. Can be used for broadcasting Open Houses, or comp days
-        -  
+    - div,id: wrapper/staff
+        - The tall pictures in this div are not going to work due to rez but smaller or picters in a collage will look cool
