@@ -1,9 +1,10 @@
 # Design Notes
-s
-### These are ideas and source insprations for the website (cause logging and note taking is better than not)
 
+### These are ideas and source insprations for the website (cause logging and note taking is better than not)
 ## Ideas as of (7/1/20) they were in a different notepad before
+
 ### The id: of each div that can be useable will be mentioned
+
 -Undeviating (https://templated.co/undeviating)
     - Gallery instead of static photo
 
