@@ -1,4 +1,5 @@
 # Design Notes
+s
 ### These are ideas and source insprations for the website (cause logging and note taking is better than not)
 
 ## Ideas as of (7/1/20) they were in a different notepad before
