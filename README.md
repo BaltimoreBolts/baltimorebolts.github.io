@@ -29,3 +29,6 @@ Jekyll + Sass + Boostrap Based Website
 ### Design ideas
 - https://html5up.net/massively
 - https://templated.co/
+- Design notes can be found in DesignNotes.md
+
+Player 2 has joined the match
