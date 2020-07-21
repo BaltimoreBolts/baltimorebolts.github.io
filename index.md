@@ -4,9 +4,8 @@ layout: default
 
 {% include navbar.html %}
 
-{% include header.html %}
+{% include banner.html %}
 {% include about.html %}
-{% include card-deck.html %}
-{% include description.html %}
-
-{% include footer.html %}
+{% include skills.html %}
+{% include events.html %}
+{% include countdown.html %}

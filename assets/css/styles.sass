@@ -1,20 +1,61 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap')
+
 @import './bootstrap.min'
 
-$theme-primary: black
-$theme-secondary: #F1DDC5
-$theme-tertiary: #948777
+$theme-1: #1c407b
+$theme-2: $theme-1
+$theme-3: lighten($theme-2, 10%)
 $theme-light: #F4F4F4
-$theme-dark: rgb(50, 50, 50)
-$theme-glass: rgba(58, 53, 47, 0.6)
-$light-grad: linear-gradient(96deg, $theme-secondary, $theme-tertiary)
-$light-grad-2: linear-gradient(177deg, $theme-secondary, $theme-tertiary)
+$light-grad: linear-gradient(96deg, $theme-2, $theme-3)
+$light-grad-2: linear-gradient(177deg, $theme-2, $theme-3)
 
+body
+    font-family: "Poppins", sans-serif
+
+.diamond-plate
+    background-color: $theme-1
+    background-image: linear-gradient(144deg, $theme-1 26px, transparent 27px), linear-gradient(-34deg, $theme-1 25px, transparent 26px), linear-gradient(132deg, rgba(255, 255, 255, 1) 26px, transparent 27px), linear-gradient(128deg, rgba(200, 200, 200, 0.7) 26px, transparent 27px), linear-gradient(-41deg, rgba(200, 200, 200, 1) 27px, transparent 28px), linear-gradient(-52deg, rgba(255, 255, 255, 1) 27px, transparent 28px), linear-gradient(-125deg, $theme-1 26px, transparent 27px), linear-gradient(55deg, $theme-1 25px, transparent 26px), linear-gradient(-132deg, rgba(200, 200, 200, 1) 26px, transparent 27px), linear-gradient(-141deg, rgba(255, 255, 255, 1) 26px, transparent 27px), linear-gradient(42deg, rgba(255, 255, 255, 1) 27px, transparent 28px), linear-gradient(38deg, rgba(200, 200, 200, 0.5) 27px, transparent 28px)
+    background-size: 100px 100px
+    background-position: -16px 9px, -13px -11px, -13px 13px, -13px 16px, -13px -11px, -13px -16px, -23px -1px, -3px -1px, -26px -1px, -30px -1px, -2px -1px, 1px -1px
+    background-repeat: repeat
+    height: 0
+    width: auto
+    padding-bottom: 56.25%
 
 .masthead
     height: 100vh
-    background-image: url(/assets/img/trailer-1.jpg)
+    background-image: url(/assets/img/bolts-2.jpg)
     background-size: cover
     background-position: center
     background-repeat: no-repeat
-    background-color: $theme-primary
+    background-color: $theme-1
+    background-attachment: scroll, fixed
+
+    #banner-title
+        text-transform: uppercase
+        -webkit-animation: glow 3s ease-in-out infinite alternate
+        -moz-animation: glow 3s ease-in-out infinite alternate
+        animation: glow 3s ease-in-out infinite alternate
+  
+        @keyframes glow
+            from
+                text-shadow: 0 0 40px $theme-2, 0 0 50px $theme-2, 0 0 60px $theme-2, 0 0 70px $theme-2, 0 0 80px $theme-2, 0 0 90px $theme-2, 0 0 100px $theme-2
+            to
+                text-shadow: 0 0 80px $theme-3, 0 0 90px $theme-3, 0 0 100px $theme-3, 0 0 110px $theme-3, 0 0 120px $theme-3, 0 0 130px $theme-3, 0 0 140px $theme-3
+
+.info-card
+    margin-bottom: 2rem
+
+#about-card
+    margin-top: -14rem
+    margin-bottom: 2rem
+
+#countdown-container
+    background: linear-gradient(grey, $theme-1)
+
+    #countdown
+        text-align: center
+        font-family: "Cutive Mono"

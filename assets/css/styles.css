@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap");
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
@@ -49,7 +52,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Quicksand",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-family: "Poppins",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -8227,12 +8230,48 @@ a.text-dark:focus, a.text-dark:hover {
     color: inherit;
     border-color: #dee2e6; } }
 /*# sourceMappingURL=bootstrap.min.css.map */
+body {
+  font-family: "Poppins", sans-serif; }
+
+.diamond-plate {
+  background-color: #1c407b;
+  background-image: linear-gradient(144deg, #1c407b 26px, transparent 27px), linear-gradient(-34deg, #1c407b 25px, transparent 26px), linear-gradient(132deg, white 26px, transparent 27px), linear-gradient(128deg, rgba(200, 200, 200, 0.7) 26px, transparent 27px), linear-gradient(-41deg, #c8c8c8 27px, transparent 28px), linear-gradient(-52deg, white 27px, transparent 28px), linear-gradient(-125deg, #1c407b 26px, transparent 27px), linear-gradient(55deg, #1c407b 25px, transparent 26px), linear-gradient(-132deg, #c8c8c8 26px, transparent 27px), linear-gradient(-141deg, white 26px, transparent 27px), linear-gradient(42deg, white 27px, transparent 28px), linear-gradient(38deg, rgba(200, 200, 200, 0.5) 27px, transparent 28px);
+  background-size: 100px 100px;
+  background-position: -16px 9px, -13px -11px, -13px 13px, -13px 16px, -13px -11px, -13px -16px, -23px -1px, -3px -1px, -26px -1px, -30px -1px, -2px -1px, 1px -1px;
+  background-repeat: repeat;
+  height: 0;
+  width: auto;
+  padding-bottom: 56.25%; }
+
 .masthead {
   height: 100vh;
-  background-image: url(/assets/img/trailer-1.jpg);
+  background-image: url(/assets/img/bolts-2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: black; }
+  background-color: #1c407b;
+  background-attachment: scroll, fixed; }
+  .masthead #banner-title {
+    text-transform: uppercase;
+    -webkit-animation: glow 3s ease-in-out infinite alternate;
+    -moz-animation: glow 3s ease-in-out infinite alternate;
+    animation: glow 3s ease-in-out infinite alternate; }
+@keyframes glow {
+  from {
+    text-shadow: 0 0 40px #1c407b, 0 0 50px #1c407b, 0 0 60px #1c407b, 0 0 70px #1c407b, 0 0 80px #1c407b, 0 0 90px #1c407b, 0 0 100px #1c407b; }
+  to {
+    text-shadow: 0 0 80px #2556a5, 0 0 90px #2556a5, 0 0 100px #2556a5, 0 0 110px #2556a5, 0 0 120px #2556a5, 0 0 130px #2556a5, 0 0 140px #2556a5; } }
+.info-card {
+  margin-bottom: 2rem; }
+
+#about-card {
+  margin-top: -14rem;
+  margin-bottom: 2rem; }
+
+#countdown-container {
+  background: linear-gradient(grey, #1c407b); }
+  #countdown-container #countdown {
+    text-align: center;
+    font-family: "Cutive Mono"; }
 
 /*# sourceMappingURL=styles.css.map */
