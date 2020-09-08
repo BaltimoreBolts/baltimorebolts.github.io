@@ -14,6 +14,7 @@ $light-grad-2: linear-gradient(177deg, $theme-2, $theme-3)
 
 body
     font-family: "Poppins", sans-serif
+    background-attachment: fixed
 
 .diamond-plate
     background-color: $theme-1
@@ -26,15 +27,15 @@ body
     padding-bottom: 56.25%
 
 .masthead
-    height: 100vh
+    width: 100%
+    height: 0
     background-image: url(/assets/img/bolts-2.jpg)
     background-size: cover
     background-position: center
     background-repeat: no-repeat
     background-color: $theme-1
-    background-attachment: scroll, fixed
 
-    #banner-title
+    .banner-title
         text-transform: uppercase
         -webkit-animation: glow 3s ease-in-out infinite alternate
         -moz-animation: glow 3s ease-in-out infinite alternate
@@ -46,16 +47,22 @@ body
             to
                 text-shadow: 0 0 80px $theme-3, 0 0 90px $theme-3, 0 0 100px $theme-3, 0 0 110px $theme-3, 0 0 120px $theme-3, 0 0 130px $theme-3, 0 0 140px $theme-3
 
+    h1
+        padding-top: 2rem
+        padding-bottom: 32rem
+
+    h4
+        padding-bottom: 2rem
+
 .info-card
     margin-bottom: 2rem
 
-#about-card
-    margin-top: -14rem
-    margin-bottom: 2rem
+#banner-card
+    margin-top: 6rem
 
 #countdown-container
-    background: linear-gradient(grey, $theme-1)
+    text-align: center
+    font-family: "Major Mono Display"
 
-    #countdown
-        text-align: center
-        font-family: "Cutive Mono"
+    h2
+        display: inline

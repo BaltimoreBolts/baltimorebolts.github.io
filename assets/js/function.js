@@ -11,11 +11,14 @@ var x = setInterval(function () {
     var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-    document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+    document.getElementById("countdown-days").innerHTML = days + "d";
+    document.getElementById("countdown-hours").innerHTML = hours + "h";
+    document.getElementById("countdown-mins").innerHTML = minutes + "m";
+    document.getElementById("countdown-secs").innerHTML = seconds + "s";
 
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("countdown").innerHTML = "Competition Time!";
+        document.getElementById("countdown-days").innerHTML = "Competition Time!";
     }
 
 }, 1000);

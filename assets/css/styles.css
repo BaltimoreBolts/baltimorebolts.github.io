@@ -8231,7 +8231,8 @@ a.text-dark:focus, a.text-dark:hover {
     border-color: #dee2e6; } }
 /*# sourceMappingURL=bootstrap.min.css.map */
 body {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Poppins", sans-serif;
+  background-attachment: fixed; }
 
 .diamond-plate {
   background-color: #1c407b;
@@ -8244,14 +8245,14 @@ body {
   padding-bottom: 56.25%; }
 
 .masthead {
-  height: 100vh;
+  width: 100%;
+  height: 0;
   background-image: url(/assets/img/bolts-2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #1c407b;
-  background-attachment: scroll, fixed; }
-  .masthead #banner-title {
+  background-color: #1c407b; }
+  .masthead .banner-title {
     text-transform: uppercase;
     -webkit-animation: glow 3s ease-in-out infinite alternate;
     -moz-animation: glow 3s ease-in-out infinite alternate;
@@ -8261,17 +8262,22 @@ body {
     text-shadow: 0 0 40px #1c407b, 0 0 50px #1c407b, 0 0 60px #1c407b, 0 0 70px #1c407b, 0 0 80px #1c407b, 0 0 90px #1c407b, 0 0 100px #1c407b; }
   to {
     text-shadow: 0 0 80px #2556a5, 0 0 90px #2556a5, 0 0 100px #2556a5, 0 0 110px #2556a5, 0 0 120px #2556a5, 0 0 130px #2556a5, 0 0 140px #2556a5; } }
+  .masthead h1 {
+    padding-top: 2rem;
+    padding-bottom: 32rem; }
+  .masthead h4 {
+    padding-bottom: 2rem; }
+
 .info-card {
   margin-bottom: 2rem; }
 
-#about-card {
-  margin-top: -14rem;
-  margin-bottom: 2rem; }
+#banner-card {
+  margin-top: 6rem; }
 
 #countdown-container {
-  background: linear-gradient(grey, #1c407b); }
-  #countdown-container #countdown {
-    text-align: center;
-    font-family: "Cutive Mono"; }
+  text-align: center;
+  font-family: "Major Mono Display"; }
+  #countdown-container h2 {
+    display: inline; }
 
 /*# sourceMappingURL=styles.css.map */
