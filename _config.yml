@@ -3,5 +3,5 @@ description: >-
     Baltimore bolts first robotics website
 baseurl: ""
 url: ""
-
+include: ['_pages']
 markdown: kramdown

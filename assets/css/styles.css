@@ -8234,6 +8234,16 @@ body {
   font-family: "Poppins", sans-serif;
   background-attachment: fixed; }
 
+a, a:link, a:visited, a:active {
+  text-decoration: none;
+  color: #1c407b; }
+
+a:hover {
+  color: #2f6bce; }
+
+#logo g path.solid {
+  fill: #1c407b; }
+
 .diamond-plate {
   background-color: #1c407b;
   background-image: linear-gradient(144deg, #1c407b 26px, transparent 27px), linear-gradient(-34deg, #1c407b 25px, transparent 26px), linear-gradient(132deg, white 26px, transparent 27px), linear-gradient(128deg, rgba(200, 200, 200, 0.7) 26px, transparent 27px), linear-gradient(-41deg, #c8c8c8 27px, transparent 28px), linear-gradient(-52deg, white 27px, transparent 28px), linear-gradient(-125deg, #1c407b 26px, transparent 27px), linear-gradient(55deg, #1c407b 25px, transparent 26px), linear-gradient(-132deg, #c8c8c8 26px, transparent 27px), linear-gradient(-141deg, white 26px, transparent 27px), linear-gradient(42deg, white 27px, transparent 28px), linear-gradient(38deg, rgba(200, 200, 200, 0.5) 27px, transparent 28px);
@@ -8279,5 +8289,22 @@ body {
   font-family: "Major Mono Display"; }
   #countdown-container h2 {
     display: inline; }
+
+footer .footer-title {
+  color: #1c407b; }
+
+.page-button {
+  background-color: #1c407b; }
+  .page-button:hover {
+    background-color: #1c407b; }
+
+.page-outline-button {
+  background-color: white;
+  border-color: #1c407b;
+  color: #1c407b; }
+  .page-outline-button:hover {
+    background-color: white;
+    border-color: #1c407b;
+    color: #1c407b; }
 
 /*# sourceMappingURL=styles.css.map */
