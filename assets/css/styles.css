@@ -8284,11 +8284,12 @@ a:hover {
 #banner-card {
   margin-top: 6rem; }
 
-#countdown-container {
-  text-align: center;
-  font-family: "Major Mono Display"; }
-  #countdown-container h2 {
-    display: inline; }
+#countdown-card {
+  background-color: #1c407b;
+  border: 8px solid white; }
+  #countdown-card #countdown-container {
+    text-align: center;
+    font-family: "Major Mono Display"; }
 
 footer .footer-title {
   color: #1c407b; }
@@ -8308,53 +8309,3 @@ footer .footer-title {
     color: #1c407b; }
 
 /*# sourceMappingURL=styles.css.map */
-.fade-in-3s {
-  animation: fadeIn ease 3s;
-  -webkit-animation: fadeIn ease 3s;
-  -moz-animation: fadeIn ease 3s;
-  -o-animation: fadeIn ease 3s;
-  -ms-animation: fadeIn ease 3s;
-}@keyframes fadeIn {
-  0% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
-
-@-moz-keyframes fadeIn {
-  0% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
-
-@-webkit-keyframes fadeIn {
-  0% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
-
-@-o-keyframes fadeIn {
-  0% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
-
-@-ms-keyframes fadeIn {
-  0% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
