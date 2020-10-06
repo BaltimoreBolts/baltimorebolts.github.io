@@ -6,7 +6,7 @@ permalink: /raiden/
 ---
 
 <div class="container" markdown="1">
-<section id="banner-card" class="card bg-light info-card" markdown="1">
+<section class="card bg-light page-card" markdown="1">
 
 <h1 class="mx-auto pt-4 pb-2">{{ page.title }}</h1>
 <h3 class="mx-auto">{{ page.date }}</h3>
