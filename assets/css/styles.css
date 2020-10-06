@@ -8263,7 +8263,7 @@ a:hover {
 .navbar-nav > li > a:hover {
   background-color: #1c407b;
   color: #F4F4F4 !important;
-  border-radius: 5px; }
+  border-radius: 0.25rem; }
 
 .dropdown-item:hover {
   background-color: #1c407b;
