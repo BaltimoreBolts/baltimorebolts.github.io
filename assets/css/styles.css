@@ -8260,6 +8260,14 @@ a:hover {
 .bg-theme {
   background-color: #1c407b; }
 
+.bg-theme-inv {
+  background-color: #F4F4F4;
+  border-color: #1c407b;
+  color: #1c407b !important; }
+  .bg-theme-inv:hover {
+    background-color: #1c407b;
+    color: white !important; }
+
 .navbar-nav > li > a:hover {
   background-color: #1c407b;
   color: #F4F4F4 !important;
@@ -8275,7 +8283,7 @@ a:hover {
 .masthead {
   position: relative;
   width: 100%;
-  min-height: 80vh;
+  min-height: 60vh;
   background-image: url(/assets/img/bolts-2.jpg);
   background-size: cover;
   background-position: center;
@@ -8284,14 +8292,7 @@ a:hover {
   border-radius: 0.25rem; }
   .masthead .banner-title {
     text-transform: uppercase;
-    -webkit-animation: glow 3s ease-in-out infinite alternate;
-    -moz-animation: glow 3s ease-in-out infinite alternate;
-    animation: glow 3s ease-in-out infinite alternate; }
-@keyframes glow {
-  from {
-    text-shadow: 0 0 40px #1c407b, 0 0 50px #1c407b, 0 0 60px #1c407b, 0 0 70px #1c407b, 0 0 80px #1c407b, 0 0 90px #1c407b, 0 0 100px #1c407b; }
-  to {
-    text-shadow: 0 0 80px #2556a5, 0 0 90px #2556a5, 0 0 100px #2556a5, 0 0 110px #2556a5, 0 0 120px #2556a5, 0 0 130px #2556a5, 0 0 140px #2556a5; } }
+    text-shadow: 0 0 80px #2556a5, 0 0 90px #2556a5, 0 0 100px #2556a5, 0 0 110px #2556a5, 0 0 120px #2556a5, 0 0 130px #2556a5, 0 0 140px #2556a5; }
   .masthead h1 {
     padding-top: 2rem; }
   .masthead h4 {
@@ -8319,6 +8320,9 @@ a:hover {
 #banner-card {
   margin-top: 6rem;
   background: none; }
+
+#skills-card .container .row .col-md i {
+  text-size: 64px; }
 
 #countdown-card {
   background-color: #1c407b;

@@ -44,6 +44,15 @@ a:hover
 .bg-theme
     background-color: $theme-1
 
+.bg-theme-inv
+    background-color: $theme-light
+    border-color: $theme-1
+    color: $theme-1 !important
+
+    &:hover
+        background-color: $theme-1
+        color: white !important
+
 .navbar-nav > li > a:hover
     background-color: $theme-1
     color: $theme-light !important
@@ -59,7 +68,7 @@ a:hover
 .masthead
     position: relative
     width: 100%
-    min-height: 80vh
+    min-height: 60vh
     background-image: url(/assets/img/bolts-2.jpg)
     background-size: cover
     background-position: center
@@ -69,15 +78,17 @@ a:hover
 
     .banner-title
         text-transform: uppercase
-        -webkit-animation: glow 3s ease-in-out infinite alternate
-        -moz-animation: glow 3s ease-in-out infinite alternate
-        animation: glow 3s ease-in-out infinite alternate
+        text-shadow: 0 0 80px $theme-3, 0 0 90px $theme-3, 0 0 100px $theme-3, 0 0 110px $theme-3, 0 0 120px $theme-3, 0 0 130px $theme-3, 0 0 140px $theme-3
+        
+        // -webkit-animation: glow 3s ease-in-out infinite alternate
+        // -moz-animation: glow 3s ease-in-out infinite alternate
+        // animation: glow 3s ease-in-out infinite alternate
   
-        @keyframes glow
-            from
-                text-shadow: 0 0 40px $theme-2, 0 0 50px $theme-2, 0 0 60px $theme-2, 0 0 70px $theme-2, 0 0 80px $theme-2, 0 0 90px $theme-2, 0 0 100px $theme-2
-            to
-                text-shadow: 0 0 80px $theme-3, 0 0 90px $theme-3, 0 0 100px $theme-3, 0 0 110px $theme-3, 0 0 120px $theme-3, 0 0 130px $theme-3, 0 0 140px $theme-3
+        // @keyframes glow
+        //     from
+        //         text-shadow: 0 0 40px $theme-2, 0 0 50px $theme-2, 0 0 60px $theme-2, 0 0 70px $theme-2, 0 0 80px $theme-2, 0 0 90px $theme-2, 0 0 100px $theme-2
+        //     to
+        //         text-shadow: 0 0 80px $theme-3, 0 0 90px $theme-3, 0 0 100px $theme-3, 0 0 110px $theme-3, 0 0 120px $theme-3, 0 0 130px $theme-3, 0 0 140px $theme-3
 
     h1
         padding-top: 2rem
@@ -107,6 +118,9 @@ a:hover
 #banner-card
     margin-top: 6rem
     background: none
+
+#skills-card .container .row .col-md i
+    text-size: 64px
 
 #countdown-card
     background-color: $theme-1
