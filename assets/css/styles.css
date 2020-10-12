@@ -8340,6 +8340,9 @@ footer {
   background: white; }
   footer .footer-title {
     color: #1c407b; }
+  footer .footer-logo svg {
+    width: 75px !important;
+    height: 75px !important; }
 
 .page-button {
   background-color: #1c407b; }
