@@ -26,9 +26,9 @@ permalink: /raiden/
 <button type="button" class="page-outline-button m-1 btn btn-outline-primary">Paul Laurence Dunbar High</button>
 
 <div class="p-0">
-<img src="/assets/img/robots/raiden-1.jpg" class="img-fluid mx-auto my-2 rounded" />
-<img src="/assets/img/robots/raiden-2.jpg" class="img-fluid mx-auto my-2 rounded" />
-<img src="/assets/img/robots/raiden-3.jpg" class="img-fluid mx-auto mt-2 rounded" />
+<img src="/assets/img/robots/raiden-1.jpg" class="d-flex img-fluid mx-auto my-2 rounded" />
+<img src="/assets/img/robots/raiden-2.jpg" class="d-flex img-fluid mx-auto my-2 rounded" />
+<img src="/assets/img/robots/raiden-3.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
 </div>
 
 </section>

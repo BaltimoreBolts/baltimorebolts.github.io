@@ -16,7 +16,7 @@ permalink: /palpatine/
 <button type="button" class="page-button m-1 btn btn-primary">Overcame COVID!!!</button>
 
 <div class="p-0">
-<img src="/assets/img/robots/palpatine-1.png" class="img-fluid mx-auto mt-2 rounded" />
+<img src="/assets/img/robots/palpatine-1.png" class="d-flex img-fluid mx-auto mt-2 rounded" />
 </div>
 
 </section>
