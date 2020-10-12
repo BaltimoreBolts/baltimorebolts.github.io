@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 <div class="container" markdown="1">
-<section class="card bg-light page-card" markdown="1">
+<section class="card bg-light page-card p-4" markdown="1">
 
-<h1 class="mx-auto p-4">{{ page.title }}</h1>
-<hr class="mx-4">
-<h4 class="p-4" markdown="1">
+<h1 class="mx-auto">{{ page.title }}</h1>
+<hr class="">
+<h4 class="" markdown="1">
 Welcome to the online home of the Baltimore Bolts, Baltimore City's own FIRST Robotics Competition team. We started in 2016 and are in our 3rd season. The team is open to participation for all high school students in Baltimore City Public Schools. Our meetings are held 300 West Pratt Street in downtown Baltimore. Our mission is to give our team members the inspiration and skills needed to pursue careers in science, technology, engineering, and manufacturing through competitive robotics programming. Competitive robotics creates growth opportunities for students in the following ways:
 </h4>
 
