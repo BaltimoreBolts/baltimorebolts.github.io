@@ -8268,6 +8268,9 @@ a:hover {
     background-color: #1c407b;
     color: white !important; }
 
+.bg-bronze {
+  background-color: #cd7f32; }
+
 .navbar-nav > li > a:hover {
   background-color: #1c407b;
   color: #F4F4F4 !important;
@@ -8357,5 +8360,11 @@ footer {
     background-color: white;
     border-color: #1c407b;
     color: #1c407b; }
+
+#sponsors-page .card-body img {
+  max-height: 150px; }
+
+.sponsor-title {
+  border-color: #1c407b; }
 
 /*# sourceMappingURL=styles.css.map */
