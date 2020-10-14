@@ -8361,6 +8361,8 @@ footer {
     border-color: #1c407b;
     color: #1c407b; }
 
+#sponsors-page .card-body .btn {
+  border: none; }
 #sponsors-page .card-body img {
   max-height: 150px; }
 
