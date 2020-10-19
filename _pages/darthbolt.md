@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Palpatine
+title: Darth Bolt
 date: 2020
-permalink: /palpatine/
+permalink: /darth-bolt/
 ---
 
 <div class="container" markdown="1">
