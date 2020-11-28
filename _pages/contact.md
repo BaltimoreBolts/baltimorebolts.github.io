@@ -19,7 +19,7 @@ permalink: /contact/
 <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0">Student</h4></div>
 <div class="card-body">
 <p class="card-text">The Bolts are currently looking for motivated and committed Baltimore City high school students to join our team! While prior robotics experience is a plus, it is not required - just a willingness to learn and to work hard. If you are interested and want more information, click the button below!</p>
-<a href="mailto:info@baltimorebolts.com" class="btn btn-primary w-100 bg-theme-inv">Join the Team!</a>
+<a href="https://tinyurl.com/BoltsInterestForm" target"https://tinyurl.com/BoltsInterestForm" class="btn btn-primary w-100 bg-theme-inv">Join the Team!</a>
 </div>
 </div>
 </div>
