@@ -82,10 +82,23 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
 </div>
 
+<hr>
+
+<div class="text-center" markdown="1">
+#### Previous Sponsors
+<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors/">2019-2020</a>
+<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors18-19/">2018-2019</a>
+<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors17-18/">2017-2018</a>
+<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors16-17/">2016-2017</a>
+</div>
+
+
+
+
 
 <hr>
 <div class="text-center" markdown="1">
-#### 2019
+#### 2019-2020
 </div>
 
 
@@ -94,15 +107,15 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4 sponsor-title">
-            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0">The Foundery</h4></div>
+            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0">Valstone Partners</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
-                        <img src="/assets/img/sponsors/foundery.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <img src="/assets/img/Logos/00-Title-ValStone_small.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
                     </div>
                     <div class="col-md">
-                        <p class="card-text">The Foundery is an industrial-grade maker space located at Port Covington in Baltimore City, and the former home of the Baltimore Bolts.</p>
-                        <a href="https://foundery.com/" class="btn btn-primary w-100 text-light bg-theme">Organization Website</a>
+                        <p class="card-text">TEXT HERE</p>
+                        <a href="https://valstonepartners.com/" class="btn btn-primary w-100 text-light bg-theme">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -113,7 +126,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4 sponsor-title">
-            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0">Abell Foundation</h4></div>
+            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0">Abell Foundation (4th Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -130,35 +143,19 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 </div>
 <!------------------------>
 <div class="row">
-    <div class="col-md">
+<div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-dark"><h4 class="card-title text-center text-light m-0 p-0">FIRST Foundation</h4></div>
+            <div class="card-header bg-dark"><h4 class="card-title text-center text-light m-0 p-0 ">Maryland Space Business Roundtable</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
-                        <img src="/assets/img/sponsors/first-chesapeake.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="https://www.firstchesapeake.org/" class="btn btn-primary w-100 text-light bg-dark">Organization Website</a>
+                        <img src="/assets/img/sponsors/msbr.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a href="http://www.mdspace.org/stem-education.html" class="btn btn-primary w-100 text-light bg-dark">Organization Website</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="col-md">
-        <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Baltimore Design Works</h4></div>
-            <div class="card-body">
-                <div class="row">
-                    <div class="col-md">
-                        <img src="/assets/img/sponsors/baltimore-design-works.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="http://www.baltimoredesignworks.com/" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!------------------------>
-<div class="row">
     <div class="col-md">
         <div class="card mb-4">
             <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Applied Control Engineering</h4></div>
@@ -172,42 +169,30 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
             </div>
         </div>
     </div>
-    <div class="col-md">
-        <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Maryland Space Business Roundtable</h4></div>
-            <div class="card-body">
-                <div class="row">
-                    <div class="col-md">
-                        <img src="/assets/img/sponsors/msbr.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="http://www.mdspace.org/stem-education.html" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 <!------------------------>
 <div class="row">
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-light"><h4 class="card-title text-center text-dark m-0 p-0">Emergent Space Technologies</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Baltimore Design Works</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/sponsors/baltimore-design-works.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a href="http://www.baltimoredesignworks.com/" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Emergent Space Technologies</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/sponsors/est.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="https://www.emergentspace.com/" class="btn btn-primary w-100 text-dark bg-light">Organization Website</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-md">
-        <div class="card mb-4">
-            <div class="card-header bg-light"><h4 class="card-title text-center text-dark m-0 p-0 ">Bryan & Sarah Jariwala</h4></div>
-            <div class="card-body">
-                <div class="row">
-                    <div class="col-md">
-                        <h5 class="card-text text-center text-dark">Private Donors</h5> 
+                        <a href="https://www.emergentspace.com/" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -218,7 +203,66 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0">International Society of Automation</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Backbone Mechanical Design, LLC</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/06-Gold-BMD-logo.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a href="http://backbonemech.com/" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">K3 Corp</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/07-Gold-k3.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a href="http://backbonemech.com/" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!------------------------>
+<!------------------------>
+<div class="row">
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-light"><h4 class="card-title text-center text-dark m-0 p-0 ">REV Robotics</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/08-Silver-REV_LOGO_SINGLE_COLOR_WHITE_WEB.png" class="bg-dark d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a href="http://revrobotics.com/" class="btn btn-primary w-100 text-dark bg-light">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-light"><h4 class="card-title text-center text-dark m-0 p-0 ">WACO Products</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/09-Silver-Waco-logo-FINAL-shirt.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a href="http://wacoproducts.com/" class="btn btn-primary w-100 text-dark bg-light">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!------------------------>
+<div class="row">
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0">International Society of Automation (2nd Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -231,12 +275,12 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0 ">Creatrix</h4></div>
+            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0 ">Plummer Industries</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
-                        <img src="/assets/img/sponsors/creatrix.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="https://www.creatrixinc.com/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
+                        <img src="/assets/img/Logos/11-Bronze-PI_LOGO_BLACK.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a href="https://plummerindustries.com/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -244,12 +288,27 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0 ">Let's Go Boys & Girls</h4></div>
+            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0 ">Broadcast Sports International</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
-                        <img src="/assets/img/sponsors/lets-go.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="http://www.letsgoboysandgirls.com/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
+                        <img src="/assets/img/Logos/12-Bronze-BSInternational_NEP_Logo_Mk.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a href="http://www.bsintl.com/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0 p-0">And Generous contributions from the friends and family of the Bolts through Gofundme</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/GoFundMe.jpg" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a href="https://www.gofundme.com/f/launch-the-baltimore-bolts-to-new-heights-in-2021/" class="btn btn-primary w-100 text-light bg-theme">Organization Website</a>
                     </div>
                 </div>
             </div>

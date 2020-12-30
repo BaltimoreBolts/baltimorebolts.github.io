@@ -17,7 +17,7 @@ permalink: /about/
 <br> 
 
 <div class = "card-header bg-theme col-md p-4 rounded">
-    <h3 class="card-title text-center text-light m-0">Starting in 2016, the team is open to participation for all high school students in Baltimore City Public Schools. Our meetings are held at 2002 Clipper Park Road, Baltimore. 
+    <h3 class="card-title text-center text-light m-0">Starting in 2016, the team is open to participation for all high school students in Baltimore City schools. Our meetings are held at 2002 Clipper Park Road, Baltimore. 
     </h3>
 </div>
 

@@ -15,8 +15,19 @@ permalink: /darth-bolt/
 <h4 class="p-0">Achievements</h4>
 <button type="button" class="page-button m-1 btn btn-primary">Overcame COVID!!!</button>
 
+<h4 class="mt-2 p-0">High Schools Represented</h4>
+<button type="button" class="page-outline-button m-1 btn btn-outline-primary">Baltimore City College</button>
+<button type="button" class="page-outline-button m-1 btn btn-outline-primary">Baltimore Polytechnic Institute</button>
+<button type="button" class="page-outline-button m-1 btn btn-outline-primary">Western High</button>
+<button type="button" class="page-outline-button m-1 btn btn-outline-primary">National Academy Foundation</button>
+<button type="button" class="page-outline-button m-1 btn btn-outline-primary">REACH! Partnership School</button>
+<button type="button" class="page-outline-button m-1 btn btn-outline-primary">Benjamin Franklin High School @ Masonville Cove</button>
+
 <div class="p-0">
-<img src="/assets/img/robots/palpatine-1.png" class="d-flex img-fluid mx-auto mt-2 rounded" />
+<img src="/assets/img/robots/FIRST-InfiniteRecharge-RGB_Horizontal-full-color.png" class="d-flex img-fluid mx-auto mt-2 rounded" />
+<img src="/assets/img/Baltimore_Bolts_2020.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
+<img src="/assets/img/robots/DarthBolt1.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" height="50%" width="50%"/>
+
 </div>
 
 </section>
