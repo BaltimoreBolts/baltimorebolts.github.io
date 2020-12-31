@@ -16,7 +16,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 </div>
 
 
-<a href="https://drive.google.com/file/d/1LdXXeN1_GKDBXxM-N7AA-kjoi41qmzMV/view?usp=sharing" class="btn btn-primary w-100 text-light bg-theme">Become a Sponsor!</a>
+<a href="https://drive.google.com/file/d/1LxHRz5hKqIseyxABPb-kKic2kLbQGTGN/view?usp=sharing" class="btn btn-primary w-100 text-light bg-theme">Become a Sponsor!</a>
 
 <hr>
 
@@ -24,6 +24,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 #### Previous Sponsors
 <a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors/">2019-2020</a>
 <a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors18-19/">2018-2019</a>
+
 <a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors17-18/">2017-2018</a>
 <a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors16-17/">2016-2017</a>
 </div>

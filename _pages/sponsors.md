@@ -16,7 +16,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 </div>
 
 
-<a href="https://drive.google.com/file/d/1LdXXeN1_GKDBXxM-N7AA-kjoi41qmzMV/view?usp=sharing" class="btn btn-primary w-100 text-light bg-theme">Become a Sponsor!</a>
+<a href="https://drive.google.com/file/d/1LxHRz5hKqIseyxABPb-kKic2kLbQGTGN/view?usp=sharing" class="btn btn-primary w-100 text-light bg-theme">Become a Sponsor!</a>
 
 <hr>
 <div class="text-center" markdown="1">
@@ -86,10 +86,11 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 
 <div class="text-center" markdown="1">
 #### Previous Sponsors
-<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors/">2019-2020</a>
-<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors18-19/">2018-2019</a>
-<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors17-18/">2017-2018</a>
-<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors16-17/">2016-2017</a>
+<a type="button" class="btn btn-primary text-light bg-theme pt-2" href="/sponsors/">2019-2020</a>
+<a type="button" class="btn btn-primary text-light bg-theme pt-2" href="/sponsors18-19/">2018-2019</a>
+
+<a type="button" class="btn btn-primary text-light bg-theme pt-2" href="/sponsors17-18/">2017-2018</a>
+<a type="button" class="btn btn-primary text-light bg-theme pt-2" href="/sponsors16-17/">2016-2017</a>
 </div>
 
 
@@ -145,7 +146,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
 <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-dark"><h4 class="card-title text-center text-light m-0 p-0 ">Maryland Space Business Roundtable</h4></div>
+            <div class="card-header bg-dark"><h4 class="card-title text-center text-light m-0 p-0 ">Maryland Space Business Roundtable (4th Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -158,7 +159,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Applied Control Engineering</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Applied Control Engineering <br> (3rd year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -174,7 +175,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Baltimore Design Works</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Baltimore Design Works (2 Years)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -187,7 +188,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Emergent Space Technologies</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Emergent Space Technologies (3 Years)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -317,6 +318,6 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 </div>
 <!------------------------>
 </div>
-
+<a href="" class="btn btn-primary w-100 text-light bg-theme">Back to top</a>
 </section>
 </div>
