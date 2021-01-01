@@ -49,7 +49,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                     </div>
                     <div class="col-md">
                         <p class="card-text">The Foundery is an industrial-grade maker space located at Port Covington in Baltimore City, and the former home of the Baltimore Bolts.</p>
-                        <a href="https://foundery.com/" class="btn btn-primary w-100 text-light bg-theme">Organization Website</a>
+                        <a target="_blank" href="https://foundery.com/" class="btn btn-primary w-100 text-light bg-theme">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                     </div>
                     <div class="col-md">
                         <p class="card-text">The Abell Foundation is committed to supporting children and youth who are educationally vulnerable while also preserving educational options that serve advanced learners. For 3 years, they have supported the Bolts as an after-school program which helps fill the gaps in school-day offerings.</p>
-                        <a href="https://www.abell.org/education" class="btn btn-primary w-100 text-light bg-theme">Organization Website</a>
+                        <a target="_blank" href="https://www.abell.org/education" class="btn btn-primary w-100 text-light bg-theme">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/sponsors/first-chesapeake.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="https://www.firstchesapeake.org/" class="btn btn-primary w-100 text-light bg-dark">Organization Website</a>
+                        <a target="_blank" href="https://www.firstchesapeake.org/" class="btn btn-primary w-100 text-light bg-dark">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/sponsors/baltimore-design-works.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="http://www.baltimoredesignworks.com/" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
+                        <a target="_blank" href="http://www.baltimoredesignworks.com/" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -113,7 +113,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/sponsors/applied-control-engineering.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="https://www.ace-net.com/" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
+                        <a target="_blank" href="https://www.ace-net.com/" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -126,7 +126,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/sponsors/msbr.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="http://www.mdspace.org/stem-education.html" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
+                        <a target="_blank" href="http://www.mdspace.org/stem-education.html" class="btn btn-primary w-100 text-light bg-warning">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -142,7 +142,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/sponsors/est.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="https://www.emergentspace.com/" class="btn btn-primary w-100 text-dark bg-light">Organization Website</a>
+                        <a target="_blank" href="https://www.emergentspace.com/" class="btn btn-primary w-100 text-dark bg-light">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -170,7 +170,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/sponsors/isa.jpg" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="https://www.isa.org/baltimorewashington-dc/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
+                        <a target="_blank" href="https://www.isa.org/baltimorewashington-dc/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -183,7 +183,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/sponsors/creatrix.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="https://www.creatrixinc.com/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
+                        <a target="_blank" href="https://www.creatrixinc.com/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
                     </div>
                 </div>
             </div>
@@ -196,7 +196,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/sponsors/lets-go.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a href="http://www.letsgoboysandgirls.com/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
+                        <a target="_blank" href="http://www.letsgoboysandgirls.com/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
                     </div>
                 </div>
             </div>
