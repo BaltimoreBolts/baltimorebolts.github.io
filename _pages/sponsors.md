@@ -159,7 +159,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Applied Control Engineering <br> (3rd year)</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Applied Control Engineering <br> (3rd Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -175,7 +175,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Baltimore Design Works (2 Years)</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Baltimore Design Works (2nd Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -188,7 +188,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Emergent Space Technologies (3 Years)</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Emergent Space Technologies (3rd Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
