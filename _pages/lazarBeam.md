@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Darth Bolt
-date: 2020
-permalink: /darth-bolt/
+title: LazarBeam
+date: 2020 - 2021
+permalink: /lazarBeam/
 ---
 
 <div class="container" markdown="1">
@@ -26,7 +26,7 @@ permalink: /darth-bolt/
 <div class="p-0">
 <img src="/assets/img/robots/FIRST-InfiniteRecharge-RGB_Horizontal-full-color.png" class="d-flex img-fluid mx-auto mt-2 rounded" />
 <img src="/assets/img/Baltimore_Bolts_2020.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
-<img src="/assets/img/robots/DarthBolt1.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" height="50%" width="50%"/>
+<img src="/assets/img/robots/lazarBeam1.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" height="50%" width="50%"/>
 
 </div>
 
