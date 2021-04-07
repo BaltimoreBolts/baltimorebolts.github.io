@@ -45,7 +45,7 @@ permalink: /lazarBeam/
     Your browser does not support the video tag.
 </video> 
 <video width="800" height="500" controls>
-    <source src="/assets/vid/Team6326_Hyperdrive_Lightspeed_45.60.mp44" type="video/mp4">
+    <source src="/assets/vid/Team6326_Hyperdrive_Lightspeed_45.60.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video> 
 <video width="800" height="500" controls>
