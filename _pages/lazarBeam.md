@@ -28,6 +28,35 @@ permalink: /lazarBeam/
 <img src="/assets/img/Baltimore_Bolts_2020.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
 <img src="/assets/img/robots/lazarBeam1.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" height="50%" width="50%"/>
 
+<video width="800" height="500" controls>
+    <source src="/assets/vid/Team6326_AutoNav_BarrelRace_14.58.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<video width="800" height="500" controls>
+    <source src="/assets/vid/Team6326_AutoNav_Bounce_10.78.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+<video width="800" height="500" controls>
+    <source src="/assets/vid/Team6326_AutoNav_Slalom_11.38.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+<video width="800" height="500" controls>
+    <source src="/assets/vid/Team6326_Hyperdrive_Bounce_21.13.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+<video width="800" height="500" controls>
+    <source src="/assets/vid/Team6326_Hyperdrive_Lightspeed_45.60.mp44" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+<video width="800" height="500" controls>
+    <source src="/assets/vid/Team6326_Hyperdrive_Slalom_17.73.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+<video width="800" height="500" controls>
+    <source src="/assets/vid/Team6326_PowerPort_9.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+
 </div>
 
 </section>
