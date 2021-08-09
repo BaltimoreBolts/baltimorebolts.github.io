@@ -16,15 +16,11 @@ permalink: /about/
     </h3>
 </div>
 
-<br> 
-
 <div class = "card-header bg-theme col-md p-4 rounded">
     <h3 class="card-title text-center text-light m-0">
         Starting in 2016, the team is open to participation for all high school students in Baltimore City schools. Our meetings are held at 2002 Clipper Park Road, Baltimore. 
     </h3>
 </div>
-
-<br>
 
 <div class="card-header bg-theme col-md p-4 rounded">
     <h3 class="card-title text-center text-light m-0">
@@ -48,15 +44,11 @@ permalink: /about/
     </h5>
 </div>
 
-<br>
-
 <div class = "card-header bg-light col-md p-4 rounded">
     <h5 class="card-title text-center m-0">
         Students need to work around skill, knowledge and time limitations to complete their assigned tasks
     </h5>
 </div>
-
-<br>
 
 <div class = "card-header bg-light col-md p-4 rounded">
     <h5 class="card-title text-center m-0">
@@ -64,15 +56,11 @@ permalink: /about/
     </h5>
 </div>
 
-<br>
-
 <div class = "card-header bg-light col-md p-4 rounded">
     <h5 class="card-title text-center m-0">
         Students need to design, build, code, and test robots capable of competing in the given year’s game
     </h5>
 </div>
-
-<br>
 
 <div class = "card-header bg-light col-md p-4 rounded">
     <h5 class="card-title text-center m-0">
@@ -80,23 +68,17 @@ permalink: /about/
     </h5>
 </div>
 
-<br>
-
 <div class = "card-header bg-light col-md p-4 rounded">
     <h5 class="card-title text-center m-0">
         Students need to compete head to head and along side students from a variety of schools, backgrounds, and skill levels to earn competition success
     </h5>
 </div>
 
-<br>
-
 <div class = "card-header bg-light col-md p-4 rounded">
     <h5 class="card-title text-center m-0">
         Students need to build a community coalition to increase the number of teams, increase the number and diversity of students involved and increase the community’s support for competitive robotics
     </h5>
 </div>
-
-<br>
 
 </section>
 </div>
