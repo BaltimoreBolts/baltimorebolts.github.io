@@ -1,9 +1,9 @@
 # baltimorebolts.github.io
-Jekyll + Sass + Boostrap Based Website
-[Link to Site](http://baltimorebolts.github.io)
+- Jekyll + Sass + Boostrap Based Website
+- [Link to Site](http://baltimorebolts.github.io)
 
 ### Dev Environment
-- linux!!!
+- linux!!! (not necessary but highly recommended)
     - dual booting
         - balena etcher to flash linux iso
         - download `.iso` file from ubuntu website
@@ -24,7 +24,7 @@ Jekyll + Sass + Boostrap Based Website
 - `sass -w styles.sass:styles.css`
     - this will watch for updates to your `styles.sass` file and write the `styles.css` file for you
 - `git add .` + `git commit -m "commit message"` + `git push` to push your changes up
-    - or use vscode integrated git
+    - or use vscode integrated git (highly recommended)
 
 ### Design ideas
 - https://html5up.net/massively
