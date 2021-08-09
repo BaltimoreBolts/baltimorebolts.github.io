@@ -42,58 +42,58 @@ permalink: /about/
     Competitive robotics creates growth opportunities for students in the following ways: 
 </h3>
 
-<div class = "card-header bg-theme-inv col-md p-4 rounded">
-    <h4 class="card-title text-center text-light m-0">
+<div class = "card-header bg-light col-md p-4 rounded">
+    <h5 class="card-title text-center m-0">
         Students need to work as a team to brain storm, make decisions, correct mistakes, and complete tasks to field a competition ready robot
-    </h4>
+    </h5>
 </div>
 
 <br>
 
-<div class = "card-header bg-theme-inv col-md p-4 rounded">
-    <h4 class="card-title text-center text-light m-0">
+<div class = "card-header bg-light col-md p-4 rounded">
+    <h5 class="card-title text-center m-0">
         Students need to work around skill, knowledge and time limitations to complete their assigned tasks
-    </h4>
+    </h5>
 </div>
 
 <br>
 
-<div class = "card-header bg-theme-inv col-md p-4 rounded">
-    <h4 class="card-title text-center text-light m-0">
+<div class = "card-header bg-light col-md p-4 rounded">
+    <h5 class="card-title text-center m-0">
         Students need to define roles, define responsibility, and hold each other accountable to ensure the project is well managed
-    </h4>
+    </h5>
 </div>
 
 <br>
 
-<div class = "card-header bg-theme-inv col-md p-4 rounded">
-    <h4 class="card-title text-center text-light m-0">
+<div class = "card-header bg-light col-md p-4 rounded">
+    <h5 class="card-title text-center m-0">
         Students need to design, build, code, and test robots capable of competing in the given year’s game
-    </h4>
+    </h5>
 </div>
 
 <br>
 
-<div class = "card-header bg-theme-inv col-md p-4 rounded">
-    <h4 class="card-title text-center text-light m-0">
+<div class = "card-header bg-light col-md p-4 rounded">
+    <h5 class="card-title text-center m-0">
         Students need to learn how to communicate, deal with failure and work through stress inducing situations to make sure the team is greater than the sum of its parts
-    </h4>
+    </h5>
 </div>
 
 <br>
 
-<div class = "card-header bg-theme-inv col-md p-4 rounded">
-    <h4 class="card-title text-center text-light m-0">
+<div class = "card-header bg-light col-md p-4 rounded">
+    <h5 class="card-title text-center m-0">
         Students need to compete head to head and along side students from a variety of schools, backgrounds, and skill levels to earn competition success
-    </h4>
+    </h5>
 </div>
 
 <br>
 
-<div class = "card-header bg-theme-inv col-md p-4 rounded">
-    <h4 class="card-title text-center text-light m-0">
+<div class = "card-header bg-light col-md p-4 rounded">
+    <h5 class="card-title text-center m-0">
         Students need to build a community coalition to increase the number of teams, increase the number and diversity of students involved and increase the community’s support for competitive robotics
-    </h4>
+    </h5>
 </div>
 
 <br>
