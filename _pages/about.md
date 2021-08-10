@@ -10,19 +10,19 @@ permalink: /about/
 <h1 class="mx-auto">{{ page.title }}</h1>
 <hr>
 
-<div class="card-header bg-theme col-md p-4 rounded">
+<div class="card-header bg-theme col-md p-4 mb-4 rounded">
     <h3 class="card-title text-center text-light m-0 ">
         Welcome to the online home of the Baltimore Bolts, Baltimore City’s own FIRST Robotics Competition team.
     </h3>
 </div>
 
-<div class = "card-header bg-theme col-md p-4 rounded">
+<div class = "card-header bg-theme col-md p-4 mb-4 rounded">
     <h3 class="card-title text-center text-light m-0">
         Starting in 2016, the team is open to participation for all high school students in Baltimore City schools. Our meetings are held at 2002 Clipper Park Road, Baltimore. 
     </h3>
 </div>
 
-<div class="card-header bg-theme col-md p-4 rounded">
+<div class="card-header bg-theme col-md p-4 mb-4 rounded">
     <h3 class="card-title text-center text-light m-0">
         Our mission is to give our team members the inspiration and skills needed to pursue careers in STEM through competitive robotics programming.
     </h3>
@@ -44,7 +44,7 @@ permalink: /about/
     </h5>
 </div>
 
-<div class = "card-header bg-light col-md p-4 rounded">
+<div class = "card-body bg-light col-md p-4 rounded">
     <h5 class="card-title text-center m-0">
         Students need to work around skill, knowledge and time limitations to complete their assigned tasks
     </h5>
