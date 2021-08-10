@@ -38,7 +38,7 @@ permalink: /about/
     Competitive robotics creates growth opportunities for students in the following ways: 
 </h3>
 
-<div class = "card-header bg-light col-md p-4 rounded">
+<div class = "card bg-light col-md p-4 rounded">
     <h5 class="card-title text-center m-0">
         Students need to work as a team to brain storm, make decisions, correct mistakes, and complete tasks to field a competition ready robot
     </h5>
@@ -50,7 +50,7 @@ permalink: /about/
     </h5>
 </div>
 
-<div class = "card-header bg-light col-md p-4 rounded">
+<div class = "card card bg-light col-md p-4 rounded">
     <h5 class="card-title text-center m-0">
         Students need to define roles, define responsibility, and hold each other accountable to ensure the project is well managed
     </h5>
