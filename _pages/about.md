@@ -10,15 +10,11 @@ permalink: /about/
 <h1 class="mx-auto">{{ page.title }}</h1>
 <hr>
 
-<div class="card-header bg-theme col-md p-4 mb-2 rounded">
-    <h3 class="card-title text-center text-light m-0 ">
-        Welcome to the online home of the Baltimore Bolts, Baltimore City’s own FIRST Robotics Competition team.
-    </h3>
-</div>
+
 
 <div class = "card-header bg-theme col-md p-4 mb-2 rounded">
     <h3 class="card-title text-center text-light m-0">
-        Starting in 2016, the team is open to participation for all high school students in Baltimore City schools. Our meetings are held at 2002 Clipper Park Road, Baltimore. 
+        Starting in 2016, the team is open to participation for all high school students in Baltimore City schools. Our meetings are held at 1100 Wicomico Street, Baltimore. 
     </h3>
 </div>
 
