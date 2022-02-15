@@ -21,12 +21,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <hr>
 
 <div class="text-center" markdown="1">
-#### Previous Sponsors
-<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors/">2019-2020</a>
-<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors18-19/">2018-2019</a>
-
-<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors17-18/">2017-2018</a>
-<a type="button" class="btn btn-primary text-light bg-theme" href="/sponsors16-17/">2016-2017</a>
+{% include sponsorButtons.md %}
 </div>
 
 <hr>
