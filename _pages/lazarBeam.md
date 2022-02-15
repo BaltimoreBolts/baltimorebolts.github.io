@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LazarBeam
-date: 2020 - 2021
+date: 2021
 permalink: /lazarBeam/
 ---
 
@@ -13,20 +13,23 @@ permalink: /lazarBeam/
 <hr>
 
 <h4 class="p-0">Achievements</h4>
-<button type="button" class="page-button m-1 btn btn-primary">Overcame COVID!!!</button>
+
+<button type="button" class="page-button m-1 btn btn-primary">@Home Challenge - Rank 12/23 for our group</button>
+<button type="button" class="page-button m-1 btn btn-primary">@Home Challenge - Rank 2nd for autonomous in our group</button>
+<button type="button" class="page-button m-1 btn btn-primary">@Home Challenge - Rank 12th in Hyperdrive circuit  for our group</button>
+<button type="button" class="page-button m-1 btn btn-primary">Game Design Challenge - Participant</button>
+<button type="button" class="page-button m-1 btn btn-primary">Battle O' Baltimore - Finalist for Armistad Engg. & Innovation Award </button>
 
 <h4 class="mt-2 p-0">High Schools Represented</h4>
 <button type="button" class="page-outline-button m-1 btn btn-outline-primary">Baltimore City College</button>
 <button type="button" class="page-outline-button m-1 btn btn-outline-primary">Baltimore Polytechnic Institute</button>
-<button type="button" class="page-outline-button m-1 btn btn-outline-primary">Western High</button>
-<button type="button" class="page-outline-button m-1 btn btn-outline-primary">National Academy Foundation</button>
-<button type="button" class="page-outline-button m-1 btn btn-outline-primary">REACH! Partnership School</button>
 <button type="button" class="page-outline-button m-1 btn btn-outline-primary">Benjamin Franklin High School @ Masonville Cove</button>
+<button type="button" class="page-outline-button m-1 btn btn-outline-primary">North East Senior High School</button>
 
 <div class="p-0">
 <img src="/assets/img/robots/FIRST-InfiniteRecharge-RGB_Horizontal-full-color.png" class="d-flex img-fluid mx-auto mt-2 rounded" />
-<img src="/assets/img/Baltimore_Bolts_2020.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
-<img src="/assets/img/robots/lazarBeam1.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" height="50%" width="50%"/>
+<img src="/assets/img/robots/lazar-beam-3.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
+<img src="/assets/img/robots/lazar-beam-2.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" height="auto" width="75%"/>
 
 <video width="800" height="500" controls>
     <source src="/assets/vid/Team6326_AutoNav_BarrelRace_14.58.mp4" type="video/mp4">
