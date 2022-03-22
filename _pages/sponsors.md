@@ -172,7 +172,6 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
             </div>
         </div>
     </div>
-    
 </div>
 <!------------------------>
 <div class="row">
@@ -244,6 +243,35 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
             </div>
         </div>
     </div>
+</div>
+<!------------------------>
+<div class="row">
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-light"><h4 class="card-title text-center text-dark m-0 p-0 ">WACO Products</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/2021-2022/Waco.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a target="_blank" href="http://wacoproducts.com/" class="btn btn-primary w-100 text-dark bg-light">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0">InSource Solutions</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/2021-2022/InSourceSolutions.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a target="_blank" href="https://www.isa.org/baltimorewashington-dc/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>	
 </div>
 <!------------------------>
 </div>
