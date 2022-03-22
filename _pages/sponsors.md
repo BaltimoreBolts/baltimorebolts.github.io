@@ -177,7 +177,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
 <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Applied Control Engineering <br> (3rd Year)</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Applied Control Engineering <br> (4th Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -190,7 +190,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Emergent Space Technologies</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Emergent Space Technologies <br> (4th Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -206,7 +206,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Backbone Mechanical Design, LLC</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Backbone Mechanical Design, LLC <br> (2nd Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -219,7 +219,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">K3 Corp</h4></div>
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">K3 Corp <br> (2nd Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -248,7 +248,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-light"><h4 class="card-title text-center text-dark m-0 p-0 ">WACO Products</h4></div>
+            <div class="card-header bg-light"><h4 class="card-title text-center text-dark m-0 p-0 ">WACO Products <br> (2nd Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
