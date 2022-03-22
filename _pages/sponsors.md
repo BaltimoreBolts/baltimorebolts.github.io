@@ -266,7 +266,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/Logos/2021-2022/InSourceSolutions.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
-                        <a target="_blank" href="https://www.isa.org/baltimorewashington-dc/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
+                        <a target="_blank" href="https://insource.solutions/" class="btn btn-primary w-100 text-dark bg-bronze">Organization Website</a>
                     </div>
                 </div>
             </div>
