@@ -261,7 +261,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0">InSource Solutions</h4></div>
+            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0">InSource Solutions </h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
