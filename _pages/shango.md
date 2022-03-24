@@ -30,8 +30,8 @@ permalink: /shango/
 
 <div class="p-0">
 <img src="/assets/img/robots/shango-1.jpg" class="d-flex img-fluid mx-auto my-2 rounded" />
-<img src="/assets/img/robots/shango-2.jpg" class="d-flex img-fluid mx-auto my-2 rounded" />
-<img src="/assets/img/robots/shango-3.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
+<img src="/assets/img/robots/shango-3.jpg" class="d-flex img-fluid mx-auto my-2 rounded" />
+<img src="/assets/img/robots/shango-2.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
 </div>
 
 </section>

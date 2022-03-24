@@ -25,7 +25,7 @@ permalink: /darth-bolt/
 <button type="button" class="page-outline-button m-1 btn btn-outline-primary">Mergenthaler VocTech High School</button>
 
 <div class="p-0">
-<img src="/assets/img/robots/FIRST-InfiniteRecharge-RGB_Horizontal-full-color.png" class="d-flex img-fluid mx-auto mt-2 rounded" />
+<img src="/assets/img/robots/darth-bolt-1.png" class="d-flex img-fluid mx-auto mt-2 rounded" />
 <img src="/assets/img/robots/darth-bolt-3.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
 <img src="/assets/img/robots/darth-bolt-2.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" height="50%" width="50%"/>
 
