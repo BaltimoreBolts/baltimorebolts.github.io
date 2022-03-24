@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sponsors (2019-2021)
-permalink: /sponsors19-21/
+title: Sponsors (2019-2020)
+permalink: /sponsors19-20/
 ---
 
 <div class="container" markdown="1">
@@ -30,7 +30,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 
 <hr>
 <div class="text-center" markdown="1">
-#### 2019-2021
+#### 2019-2020
 </div>
 
 
@@ -148,17 +148,6 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Sayre Family</h4></div>
-            <div class="card-body">
-                <div class="row">
-                    <div class="col-md">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-md">
-        <div class="card mb-4">
             <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">K3 Corp</h4></div>
             <div class="card-body">
                 <div class="row">
@@ -170,7 +159,18 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
             </div>
         </div>
     </div>
-    
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Sayre Family</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+						<h5 class="card-text text-center text-dark">Private Donors</h5> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 <!------------------------>
 <!------------------------>

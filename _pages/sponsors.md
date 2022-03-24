@@ -261,7 +261,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
     </div>
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0">InSource Solutions </h4></div>
+            <div class="card-header bg-bronze"><h4 class="card-title text-center text-dark m-0 p-0">InSource Solutions</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -278,7 +278,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0 p-0">And Generous contributions from the friends and family of the Bolts through Gofundme</h4></div>
+            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0 p-0">And generous contributions from the friends and family of the Bolts through GoFundMe</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
