@@ -116,7 +116,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4 sponsor-title">
-            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0">Abell Foundation (5th Year)</h4></div>
+            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0">Abell Foundation  <br> (5th Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
@@ -135,7 +135,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4">
-            <div class="card-header bg-dark"><h4 class="card-title text-center text-light m-0 p-0 ">Maryland Space Business Roundtable (5th Year)</h4></div>
+            <div class="card-header bg-dark"><h4 class="card-title text-center text-light m-0 p-0 ">Maryland Space Business Roundtable  <br> (5th Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
