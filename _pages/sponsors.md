@@ -277,7 +277,7 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
-                        <h5 class="card-text text-center text-dark">Private Donors</h5>
+                        <h5 class="card-text text-center text-dark">Private Donor</h5>
                     </div>
                 </div>
             </div>
