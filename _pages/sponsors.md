@@ -175,7 +175,20 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 </div>
 <!------------------------>
 <div class="row">
-<div class="col-md">
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-dark"><h4 class="card-title text-center text-light m-0 p-0 ">Sally O's</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/2021-2022/SallyOs.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a target="_blank" href="https://sallyos.com/" class="btn btn-primary w-100 text-light bg-dark">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<div class="col-md">
         <div class="card mb-4">
             <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0">Applied Control Engineering <br> (4th Year)</h4></div>
             <div class="card-body">
@@ -248,12 +261,52 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4">
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Jen King & Mike Kaurich</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <h5 class="card-text text-center text-dark">Private Donors</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-warning"><h4 class="card-title text-center text-light m-0 p-0 ">Pratima Jariwala</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <h5 class="card-text text-center text-dark">Private Donors</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!------------------------>
+<div class="row">
+    <div class="col-md">
+        <div class="card mb-4">
             <div class="card-header bg-light"><h4 class="card-title text-center text-dark m-0 p-0 ">WACO Products <br> (2nd Year)</h4></div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-md">
                         <img src="/assets/img/Logos/2021-2022/Waco.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
                         <a target="_blank" href="http://wacoproducts.com/" class="btn btn-primary w-100 text-dark bg-light">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md">
+        <div class="card mb-4">
+            <div class="card-header bg-light"><h4 class="card-title text-center text-dark m-0 p-0 ">Baltimore Robotics Center<br> (3rd Year)</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/2021-2022/BaltimoreRoboticsCenter.jpg" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                        <a target="_blank" href="https://www.baltimoreroboticscenter.com/" class="btn btn-primary w-100 text-dark bg-light">Organization Website</a>
                     </div>
                 </div>
             </div>
