@@ -116,6 +116,25 @@ The Baltimore Bolts appreciates all the support from the local community. Every 
 <div class="row">
     <div class="col-md">
         <div class="card mb-4 sponsor-title">
+            <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0">Venafi</h4></div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md">
+                        <img src="/assets/img/Logos/2021-2022/Venafi.png" class="d-flex img-fluid mx-auto mb-2 rounded"/>
+                    </div>
+                    <div class="col-md">
+                        <p class="card-text">Venafi, Inc. is a privately held cybersecurity company that develops software to secure and protect cryptographic keys and digital certificates.</p>
+                        <a href="https://www.venafi.com/" target="_blank" class="btn btn-primary w-100 text-light bg-theme">Organization Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!------------------------>
+<div class="row">
+    <div class="col-md">
+        <div class="card mb-4 sponsor-title">
             <div class="card-header bg-theme"><h4 class="card-title text-center text-light m-0">Abell Foundation  <br> (5th Year)</h4></div>
             <div class="card-body">
                 <div class="row">
