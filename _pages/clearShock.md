@@ -16,6 +16,7 @@ permalink: /clearShock/
 
 <button type="button" class="page-button m-1 btn btn-primary">CHS District Greater DC 2 - Imagery Award</button>
 <button type="button" class="page-button m-1 btn btn-primary">CHS District Greater DC 3 - Event Champions</button>
+<button type="button" class="page-button m-1 btn btn-primary">CHS District Championship</button>
 
 <h4 class="mt-2 p-0">High Schools Represented</h4>
 <button type="button" class="page-outline-button m-1 btn btn-outline-primary">Baltimore City College</button>
