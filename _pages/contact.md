@@ -46,7 +46,3 @@ permalink: /contact/
 
 </div>
 </div>
-
-
-</section>
-</div>
