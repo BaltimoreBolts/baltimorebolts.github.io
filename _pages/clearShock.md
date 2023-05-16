@@ -25,6 +25,7 @@ permalink: /clearShock/
 
 <div class="p-0">
 <img src="/assets/img/robots/clearShock-1.png" class="d-flex img-fluid mx-auto mt-2 rounded" />
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/Y9_QJALJNoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="/assets/img/robots/clearShock-3.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" />
 <img src="/assets/img/robots/clearShock-2.jpg" class="d-flex img-fluid mx-auto mt-2 rounded" height="auto" width="75%"/>
 
