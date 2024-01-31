@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sponsors
-permalink: /sponsors/
+title: Sponsors (2021-2022)
+permalink: /sponsors21-22/
 ---
 
 <div class="container" markdown="1">
@@ -15,8 +15,7 @@ permalink: /sponsors/
 The Baltimore Bolts appreciates all the support from the local community. Every sponsor, big and small, helps to ensure that we can serve our mission of providing STEM opportunities for Baltimore city students. If you are interested in supporting the team, more information can be found in our sponsorship packet.
 </div>
 
-
-<a href="/assets/pdf/2022_BaltimoreBolts_SponsorshipInfo_rev0.pdf" class="btn btn-primary w-100 text-light bg-theme">Become a Sponsor!</a>
+{% include sponsorPacket.md %}
 
 <hr>
 
