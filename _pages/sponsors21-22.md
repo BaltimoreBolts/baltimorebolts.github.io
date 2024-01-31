@@ -15,71 +15,8 @@ permalink: /sponsors/
 The Baltimore Bolts appreciates all the support from the local community. Every sponsor, big and small, helps to ensure that we can serve our mission of providing STEM opportunities for Baltimore city students. If you are interested in supporting the team, more information can be found in our sponsorship packet.
 </div>
 
-{% include sponsorPacket.md %}
 
-<hr>
-<div class="text-center" markdown="1">
-#### Sponsor Tiers
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-md">
-            <div class="card">
-                <div class="card-header bg-theme">
-                    <div class="row">
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-light m-0">Title Sponsor</h4>
-                        </div>
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-light m-0">$5000 or more</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-header bg-dark">
-                    <div class="row">
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-light m-0">Platinum Sponsor</h4>
-                        </div>
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-light m-0">$2500 to $4999</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-header bg-warning">
-                    <div class="row">
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-light m-0">Gold Sponsor</h4>
-                        </div>
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-light m-0">$1000 to $2499</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-header bg-light">
-                    <div class="row">
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-dark m-0">Silver Sponsor</h4>
-                        </div>
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-dark m-0">$500 to $999</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-header bg-bronze">
-                    <div class="row">
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-light m-0">Bronze Sponsor</h4>
-                        </div>
-                        <div class="col-md">
-                            <h4 class="card-title text-center text-light m-0">$100 to $499</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<a href="/assets/pdf/2022_BaltimoreBolts_SponsorshipInfo_rev0.pdf" class="btn btn-primary w-100 text-light bg-theme">Become a Sponsor!</a>
 
 <hr>
 
