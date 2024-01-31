@@ -14,10 +14,8 @@ permalink: /mellt/
 
 <h4 class="p-0">Achievements</h4>
 
-<button type="button" class="page-button m-1 btn btn-primary">CHS District Bethesda MD Event - Round 2 of Playoffs</button>
-<button type="button" class="page-button m-1 btn btn-primary">CHS District Bethesda MD Event - Gracious Professionalism Award</button>
-<button type="button" class="page-button m-1 btn btn-primary">CHS District Timonium MD Event - Round 4 of Playoffs</button>
-<button type="button" class="page-button m-1 btn btn-primary">CHS District Timonium MD Event - Creativity Award</button>
+<button type="button" class="page-button m-1 btn btn-primary">CHS District Bethesda MD Event - Round 2 of Playoffs; Gracious Professionalism Award</button>
+<button type="button" class="page-button m-1 btn btn-primary">CHS District Timonium MD Event - Round 4 of Playoffs; Creativity Award</button>
 <button type="button" class="page-button m-1 btn btn-primary">CHS District Championship</button>
 <button type="button" class="page-button m-1 btn btn-primary">Battle O' Baltimore - Round 5 of Playoffs</button>
 
