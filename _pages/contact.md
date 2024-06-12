@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Sign up & Contact
+permalink: /signup/
 ---
 
 <div class="container" markdown="1">
