@@ -15,8 +15,7 @@ permalink: /sponsors17-18/
 The Baltimore Bolts appreciates all the support from the local community. Every sponsor, big and small, helps to ensure that we can serve our mission of providing STEM opportunities for Baltimore city students. If you are interested in supporting the team, more information can be found in our sponsorship packet.
 </div>
 
-
-<a href="https://drive.google.com/file/d/1LxHRz5hKqIseyxABPb-kKic2kLbQGTGN/view?usp=sharing" class="btn btn-primary w-100 text-light bg-theme">Become a Sponsor!</a>
+{% include sponsorPacket.md %}
 
 <hr>
 
